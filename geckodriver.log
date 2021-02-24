@@ -1,0 +1,178 @@
+1614062837674	geckodriver	INFO	Listening on 127.0.0.1:52444
+1614062840765	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileu3EZ2C"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614062846940	Marionette	INFO	Listening on port 52452
+1614062847123	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614062847171	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.dawn.com/latest-news, line 1: ReferenceError: buildAttribution is not defined
+JavaScript error: https://www.dawn.com/latest-news, line 1: ReferenceError: buildAttribution is not defined
+JavaScript error: https://www.dawn.com/latest-news, line 1: ReferenceError: buildAttribution is not defined
+1614062904244	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1614063066919	Marionette	INFO	Stopped listening on port 52452
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+("", "(unknown module)"))
+1614063045120	Marionette	INFO	Listening on port 54919
+1614063045279	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614063045297	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614063066204	Marionette	INFO	Stopped listening on port 54919
+1614063135403	geckodriver	INFO	Listening on 127.0.0.1:55044
+1614063138477	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile0w30WB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614063143650	Marionette	INFO	Listening on port 55052
+1614063143852	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614063143869	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript error: https://www.dawn.com/latest-news, line 1: ReferenceError: buildAttribution is not defined
+JavaScript error: https://www.dawn.com/latest-news, line 1: ReferenceError: buildAttribution is not defined
+1614063237946	Marionette	INFO	Stopped listening on port 55052
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1614063828106	geckodriver	INFO	Listening on 127.0.0.1:55544
+1614063831199	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilen12d2q"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1614063848894	Marionette	INFO	Listening on port 55552
+1614063849729	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614063849780	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: uncaught exception: undefined
+1614063994230	Marionette	INFO	Stopped listening on port 55552
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614064504308	geckodriver	INFO	Listening on 127.0.0.1:56153
+1614064507370	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile3s1FNs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614064511874	Marionette	INFO	Listening on port 56161
+1614064512259	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614064512274	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: uncaught exception: undefined
+1614064651779	Marionette	INFO	Stopped listening on port 56161
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614064843343	geckodriver	INFO	Listening on 127.0.0.1:56654
+1614064846421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileErOEgj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614064851008	Marionette	INFO	Listening on port 56663
+1614064851232	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614064851245	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614064982385	Marionette	INFO	Stopped listening on port 56663
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614065077468	geckodriver	INFO	Listening on 127.0.0.1:57209
+1614065080515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileSUF2f4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614065084675	Marionette	INFO	Listening on port 57219
+1614065084709	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614065084727	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://static.files.bbci.co.uk/orbit/73ab119005de4d5439282f75dcca449e/js/require.min.js, line 1: Error: Load timeout for modules: idcta-v2/statusbar
+http://requirejs.org/docs/errors.html#timeout
+1614065224904	Marionette	INFO	Stopped listening on port 57219
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614065332131	geckodriver	INFO	Listening on 127.0.0.1:57714
+1614065335194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileZ5nNSO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614065339725	Marionette	INFO	Listening on port 57723
+1614065339994	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614065340016	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://www.dawn.com/search, line 1: ReferenceError: buildAttribution is not defined
+JavaScript error: https://www.dawn.com/search, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.jifo.co/js/dist/embed_viewer-4934aae5cc817d4e5ec5-1-webpack.js, line 2: TypeError: window.app is undefined
+1614065420270	Marionette	INFO	Stopped listening on port 57723
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614066003846	geckodriver	INFO	Listening on 127.0.0.1:58540
+1614066006924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileoZHRo6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614066011459	Marionette	INFO	Listening on port 58550
+1614066011810	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614066011832	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614066150842	Marionette	INFO	Stopped listening on port 58550
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614066604987	geckodriver	INFO	Listening on 127.0.0.1:59259
+1614066608071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilefAeOYU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614066612244	Marionette	INFO	Listening on port 59267
+1614066612318	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614066612335	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://www.dawn.com/search, line 1: ReferenceError: buildAttribution is not defined
+JavaScript error: https://www.dawn.com/search, line 1: ReferenceError: buildAttribution is not defined
+JavaScript error: https://www.dawn.com/search, line 1: ReferenceError: buildAttribution is not defined
+1614066645615	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://static.files.bbci.co.uk/orbit/73ab119005de4d5439282f75dcca449e/js/require.min.js, line 1: Error: Load timeout for modules: idcta-v2/statusbar
+http://requirejs.org/docs/errors.html#timeout
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1614066693173	Marionette	INFO	Stopped listening on port 59267
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614066719620	geckodriver	INFO	Listening on 127.0.0.1:59704
+1614066722676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilemihlJ3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614066727131	Marionette	INFO	Listening on port 59712
+1614066727525	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614066727541	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://www.dawn.com/search, line 1: ReferenceError: buildAttribution is not defined
+JavaScript error: https://www.dawn.com/search, line 1: ReferenceError: buildAttribution is not defined
+JavaScript error: https://www.dawn.com/search, line 1: ReferenceError: buildAttribution is not defined
+JavaScript error: https://static.files.bbci.co.uk/orbit/73ab119005de4d5439282f75dcca449e/js/require.min.js, line 1: Error: Load timeout for modules: idcta-v2/statusbar,morph/react
+http://requirejs.org/docs/errors.html#timeout
+1614066807100	Marionette	INFO	Stopped listening on port 59712
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614066875909	geckodriver	INFO	Listening on 127.0.0.1:60051
+1614066878956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileUkwHFL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614066883887	Marionette	INFO	Listening on port 60059
+1614066884334	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614066884351	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://www.dawn.com/search, line 1: ReferenceError: buildAttribution is not defined
+JavaScript error: https://www.dawn.com/search, line 1: ReferenceError: buildAttribution is not defined
+JavaScript error: https://www.dawn.com/search, line 1: ReferenceError: init_ssb is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+1614066937373	Marionette	INFO	Stopped listening on port 60059
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614075518296	geckodriver	INFO	Listening on 127.0.0.1:61372
+1614075521375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilewiMXrY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614075528219	Marionette	INFO	Listening on port 61380
+1614075528388	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614075528404	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614075575963	Marionette	INFO	Stopped listening on port 61380
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
